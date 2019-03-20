@@ -20,7 +20,7 @@ a{
 /*HEADER*/
 
 .Images-Logo{
-    background: url("../img/Logo3.jpg") no-repeat center top fixed;
+    background: url("img/Logo3.jpg") no-repeat center top fixed;
     width: 100%;
     height: 860px;
 }
@@ -55,7 +55,7 @@ header nav ul li a{
 /*MAIN*/
 main{
     z-index: 5;
-    background:  url("../img/Logo5.jpg") no-repeat center top fixed;
+    background:  url("img/Logo5.jpg") no-repeat center top fixed;
 }
 .block{
     height:73vh;
@@ -67,7 +67,7 @@ main{
     width: 100vh;
     height: 67vh;
     position: absolute;
-    background:  url("../img/Logo.jpg") no-repeat center top fixed;
+    background:  url("img/Logo.jpg") no-repeat center top fixed;
     opacity: 1;
     border-radius: 40px;
 }
@@ -78,7 +78,7 @@ main{
     width: 100vh;
     height: 70vh;
     position: absolute;
-    background:  url("../img/images3.jpg") no-repeat center top fixed;
+    background:  url("img/images3.jpg") no-repeat center top fixed;
     opacity: 1;
     border-radius: 40px;
 
@@ -128,7 +128,7 @@ border-bottom-left-radius: 300px 50px;
     width: 132vh;
     height: 37%;
     position: absolute;
-    background:  url("../img/Безымянный.png") no-repeat center bottom fixed;
+    background:  url("img/Безымянный.png") no-repeat center bottom fixed;
     opacity: 1;
     box-shadow: -5px 2px 30px rgba(0, 0, 0, 0.596);
 }
