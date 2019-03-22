@@ -105,10 +105,10 @@
           transition: all .7s cubic-bezier(0.445, 0.05, 0.55, 0.95);
         }
         #palkaVK,#palkaTW,#palkaIns{
-            z-index: -1;
+            z-index: 1;
           position: fixed;
             height: 7px;
-            width: 0px;
+            width: 10px;
             left: 35px;
             background-color: #470b16;
             transition: all .7s cubic-bezier(0.445, 0.05, 0.55, 0.95);
