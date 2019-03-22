@@ -41,7 +41,7 @@
             height: 10px;
             border-radius: 50px;
             background: #CDD1DA;
-            box-shadow: inset 0 2px 3px rgba(0,0,0,.2);
+            box-shadow: inset 2px 2px 3px rgba(0, 0, 0, 0.2);
             transition: .2s;
           }
           .checkbox__text2::before {
