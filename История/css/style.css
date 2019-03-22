@@ -105,30 +105,7 @@ section p{
     padding-bottom: 30px;
 }
 /*FOOTER*/
-/* footer {
-    background: #470612;
-    box-shadow: -5px 2px 30px rgba(0, 0, 0, 0.596);
-    margin: 0px auto 0px auto;
-    width: 1280px;
-}
-footer div{
-    
-    margin: 0px auto 0px auto;
-    width: 152px;
-    padding-top: 50px; 
-}
-footer p{
-    text-align: center;
-    font-size: 15px;
-    margin: 0px auto;
-    color: #fff;
-    padding: 10px 0px 20px 0px
-} 
-footer img{
-    height: 250px;
-    width: 350px;
-    margin-left: -3.5em;
-} */
+
 #Poka3{
 border-bottom-right-radius:300px 50px; 
 border-bottom-left-radius: 300px 50px;
