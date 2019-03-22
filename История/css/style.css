@@ -140,7 +140,7 @@ border-bottom-left-radius: 300px 50px;
     width: 132vh;
     height: 37%;
     position: absolute;
-    background:  url("../img/Безымянный.png") no-repeat center bottom fixed;
+    background:  url("../../История/img/Безымянный.png") no-repeat center bottom fixed;
     opacity: 1;
     box-shadow: -5px 2px 30px rgba(0, 0, 0, 0.596);
 }
