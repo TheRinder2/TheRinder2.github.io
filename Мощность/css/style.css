@@ -109,7 +109,7 @@ section p{
     font-size: 40px;
 color: #7e0b20;
 }
-#right{
+.right{
     text-indent:0px;
     width: 100px;
     background-color: rgba(209, 209, 209, 0.795);
