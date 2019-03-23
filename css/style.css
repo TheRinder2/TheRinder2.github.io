@@ -121,7 +121,6 @@ transition: all .5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 
-
 /*MAIN*/
 main{
     z-index: 5;
@@ -235,14 +234,13 @@ border-bottom-left-radius: 300px 50px;
      .mobile-menu{
          display: block;
      }
-     .mobile-menu:hover main{
-    margin: 0px auto 0px 70px;
-
-    }
      .menu{
         display: none;
     }    
- 
+    main{
+    width:0px auto;
+    margin: 0px;
+    }
     section{
         text-indent: 20px;
         text-align: justify;
