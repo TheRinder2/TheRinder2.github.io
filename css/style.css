@@ -83,20 +83,15 @@ transition: all .5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 .mobile-menu:hover{
 left: 0px;
+transition: all .5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
 }
 .mobile-menu:hover{
     left: 0px;
     transition: all .5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
     }
 
-    @media screen and (max-width:400px){
-     .mobile-menu{
-         display: block;
-     }
-     .menu{
-        display: none;
-    }    
-    }
+
 /*MAIN*/
 main{
     z-index: 5;
@@ -197,3 +192,27 @@ border-bottom-left-radius: 300px 50px;
         width: 5vh;
         border-radius: 50%;
      }
+         @media screen and (max-width:400px){
+     .mobile-menu{
+         display: block;
+     }
+     .menu{
+        display: none;
+    }    
+    main{
+    width:0px auto;
+    margin: 0px;
+    }
+    section{
+        text-indent: 20px;
+        text-align: justify;
+        padding: 10px 20px 10px 40px;
+        font-size: 10px;
+    }
+    section p{
+        padding-bottom: 10px;
+    }
+    section img{
+        width: 100%;
+    }
+    }
